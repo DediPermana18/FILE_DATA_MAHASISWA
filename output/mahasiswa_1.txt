@@ -1,0 +1,38 @@
+
+|======== DATA MAHASISWA ========
+| --- identitas ---
+| Nama   : labubu
+| Umur   : 25
+| Jurusan: TATA boga
+| NISN   : 11112
+|
+| --- Tanggal Lahir ---
+| tanggal 16 /bulan 8 /tahun 2025
+|
+|============ Nilai ============
+| --- UAS ---
+| MTK        : 89 * 40% --> 35.6
+| IPA        : 98 * 30% --> 29.4
+| B.Indonesia: 78 * 20% --> 15.6
+| B.Inggris  : 98 * 20% --> 19.6
+|
+| --- UTS ---
+| MTK        : 78 * 40% --> 31.2
+| IPA        : 97 * 30% --> 29.1
+| B.Indonesia: 79 * 20% --> 15.8
+| B.Inggris  : 89 * 20% --> 17.8
+|
+| --- TUGAS ---
+| MTK        : 80 * 40% --> 32
+| IPA        : 70 * 30% --> 21
+| B.Indonesia: 90 * 20% --> 18
+| B.Inggris  : 89 * 20% --> 17.8
+|
+| --- Bobot Nilai ---
+| UAS   : 100.2 * 40% --> 40.08
+| UTS   : 93.9 * 35% --> 32.865
+| Tugas : 88.8 * 25% --> 22.2
+|
+| --- Rata-rata ---
+| Nilai Rata-rata Akhir: 95.145
+|================================

@@ -1,0 +1,38 @@
+
+|======== DATA MAHASISWA ========
+| --- identitas ---
+| Nama   : tung tung sahur
+| Umur   : 35
+| Jurusan: SATPAM
+| NISN   : 11113
+|
+| --- Tanggal Lahir ---
+| tanggal 5 /bulan 7 /tahun 2024
+|
+|============ Nilai ============
+| --- UAS ---
+| MTK        : 89 * 40% --> 35.6
+| IPA        : 78 * 30% --> 23.4
+| B.Indonesia: 97 * 20% --> 19.4
+| B.Inggris  : 89 * 20% --> 17.8
+|
+| --- UTS ---
+| MTK        : 70 * 40% --> 28
+| IPA        : 89 * 30% --> 26.7
+| B.Indonesia: 90 * 20% --> 18
+| B.Inggris  : 89 * 20% --> 17.8
+|
+| --- TUGAS ---
+| MTK        : 88 * 40% --> 35.2
+| IPA        : 79 * 30% --> 23.7
+| B.Indonesia: 98 * 20% --> 19.6
+| B.Inggris  : 99 * 20% --> 19.8
+|
+| --- Bobot Nilai ---
+| UAS   : 96.2 * 40% --> 38.48
+| UTS   : 90.5 * 35% --> 31.675
+| Tugas : 98.3 * 25% --> 24.575
+|
+| --- Rata-rata ---
+| Nilai Rata-rata Akhir: 94.73
+|================================
