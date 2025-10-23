@@ -4,14 +4,14 @@
 Ranking ke-1
 Nama        : labubu
 NISN        : 11112
-Umur        : 25
-Jurusan     : TATA boga
-Nilai Akhir : 95.145
+Umur        : 16
+Jurusan     : RPL
+Nilai Akhir : 87.1625
 ----------------------------------
 Ranking ke-2
-Nama        : tung tung sahur
-NISN        : 11113
-Umur        : 35
-Jurusan     : SATPAM
-Nilai Akhir : 94.73
+Nama        : spongebob
+NISN        : 1112
+Umur        : 25
+Jurusan     : tata boga
+Nilai Akhir : 86.2025
 ----------------------------------

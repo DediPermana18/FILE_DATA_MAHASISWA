@@ -4,13 +4,13 @@
 using namespace std;
 
 double nilairataUAS(double Mtk, double BIn, double Big, double IPA) {
-    return (Mtk * 0.4) + (IPA * 0.3) + (BIn * 0.2) + (Big * 0.2);
+    return (Mtk * 0.35) + (IPA * 0.25) + (BIn * 0.2) + (Big * 0.2);
 }
 double nilairataUTS(double Mtk, double BIn, double Big, double IPA) {
-    return (Mtk * 0.4) + (IPA * 0.3) + (BIn * 0.2) + (Big * 0.2);
+    return (Mtk * 0.35) + (IPA * 0.25) + (BIn * 0.2) + (Big * 0.2);
 }
 double nilairataTUGAS(double Mtk, double BIn, double Big, double IPA) {
-    return (Mtk * 0.4) + (IPA * 0.3) + (BIn * 0.2) + (Big * 0.2);
+    return (Mtk * 0.35) + (IPA * 0.25) + (BIn * 0.2) + (Big * 0.2);
 }
 
 double nilairataTOTAL(double nilairataUTS, double nilairataUAS, double nilairataTUGAS) {
@@ -103,22 +103,22 @@ void TambahNilaiSiswa(Mahasiswa &mhs) {
 
 void nilaimapel(const Mahasiswa &mhs, ostream &file = cout) {  
     file << "| --- UAS ---" << endl;
-    file << "| MTK        : " << mhs.nilaiMhs.uas.Mtk << " * 40% --> " << mhs.nilaiMhs.uas.Mtk * 0.4 << endl;
-    file << "| IPA        : " << mhs.nilaiMhs.uas.IPA << " * 30% --> " << mhs.nilaiMhs.uas.IPA * 0.3 << endl;
+    file << "| MTK        : " << mhs.nilaiMhs.uas.Mtk << " * 35% --> " << mhs.nilaiMhs.uas.Mtk * 0.35 << endl;
+    file << "| IPA        : " << mhs.nilaiMhs.uas.IPA << " * 25% --> " << mhs.nilaiMhs.uas.IPA * 0.25 << endl;
     file << "| B.Indonesia: " << mhs.nilaiMhs.uas.BIn << " * 20% --> " << mhs.nilaiMhs.uas.BIn * 0.2 << endl;
     file << "| B.Inggris  : " << mhs.nilaiMhs.uas.Big << " * 20% --> " << mhs.nilaiMhs.uas.Big * 0.2 << endl;
     file << "|" << endl;
 
     file << "| --- UTS ---" << endl;
-    file << "| MTK        : " << mhs.nilaiMhs.uts.Mtk << " * 40% --> " << mhs.nilaiMhs.uts.Mtk * 0.4 << endl;
-    file << "| IPA        : " << mhs.nilaiMhs.uts.IPA << " * 30% --> " << mhs.nilaiMhs.uts.IPA * 0.3 << endl;
+    file << "| MTK        : " << mhs.nilaiMhs.uts.Mtk << " * 35% --> " << mhs.nilaiMhs.uts.Mtk * 0.35 << endl;
+    file << "| IPA        : " << mhs.nilaiMhs.uts.IPA << " * 25% --> " << mhs.nilaiMhs.uts.IPA * 0.25 << endl;
     file << "| B.Indonesia: " << mhs.nilaiMhs.uts.BIn << " * 20% --> " << mhs.nilaiMhs.uts.BIn * 0.2 << endl;
     file << "| B.Inggris  : " << mhs.nilaiMhs.uts.Big << " * 20% --> " << mhs.nilaiMhs.uts.Big * 0.2 << endl;
     file << "|" << endl;
 
     file << "| --- TUGAS ---" << endl;
-    file << "| MTK        : " << mhs.nilaiMhs.tugas.Mtk << " * 40% --> " << mhs.nilaiMhs.tugas.Mtk * 0.4 << endl;
-    file << "| IPA        : " << mhs.nilaiMhs.tugas.IPA << " * 30% --> " << mhs.nilaiMhs.tugas.IPA * 0.3 << endl;
+    file << "| MTK        : " << mhs.nilaiMhs.tugas.Mtk << " * 35% --> " << mhs.nilaiMhs.tugas.Mtk * 0.35 << endl;
+    file << "| IPA        : " << mhs.nilaiMhs.tugas.IPA << " * 25% --> " << mhs.nilaiMhs.tugas.IPA * 0.25 << endl;
     file << "| B.Indonesia: " << mhs.nilaiMhs.tugas.BIn << " * 20% --> " << mhs.nilaiMhs.tugas.BIn * 0.2 << endl;
     file << "| B.Inggris  : " << mhs.nilaiMhs.tugas.Big << " * 20% --> " << mhs.nilaiMhs.tugas.Big * 0.2 << endl;
     file << "|" << endl;
@@ -169,7 +169,7 @@ void simpanKeFile(const Mahasiswa &mhs, int index) {
 }
 
 void bukaFile(int index) {
-    string namaFile = "mahasiswa_" + to_string(index + 1) + ".txt";
+    string namaFile = "mahasiswa_" + to_string(index) + ".txt";
     ifstream file(namaFile);
     if (file.is_open()) {
         cout << "=-- ISI FILE " << namaFile << " --=" << endl;
@@ -308,7 +308,7 @@ int main() {
                 cout << "Pilih file mahasiswa yang ingin dibuka: ";
                 cin >> pilih;
                 if (pilih >= 1 && pilih <= jumlahMhs) bukaFile(pilih);
-                else cout << "Pilihan tidak valid.";
+                else cout << "Pilihan tidak valid." << endl; 
                 break;
             }
             case 2:

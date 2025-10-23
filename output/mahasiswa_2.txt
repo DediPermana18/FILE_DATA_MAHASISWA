@@ -1,38 +1,38 @@
 
 |======== DATA MAHASISWA ========
 | --- identitas ---
-| Nama   : tung tung sahur
-| Umur   : 35
-| Jurusan: SATPAM
-| NISN   : 11113
+| Nama   : spongebob
+| Umur   : 25
+| Jurusan: tata boga
+| NISN   : 1112
 |
 | --- Tanggal Lahir ---
-| tanggal 5 /bulan 7 /tahun 2024
+| tanggal 1 /bulan 1 /tahun 2000
 |
 |============ Nilai ============
 | --- UAS ---
-| MTK        : 89 * 40% --> 35.6
-| IPA        : 78 * 30% --> 23.4
-| B.Indonesia: 97 * 20% --> 19.4
-| B.Inggris  : 89 * 20% --> 17.8
+| MTK        : 78 * 35% --> 27.3
+| IPA        : 79 * 25% --> 19.75
+| B.Indonesia: 98 * 20% --> 19.6
+| B.Inggris  : 97 * 20% --> 19.4
 |
 | --- UTS ---
-| MTK        : 70 * 40% --> 28
-| IPA        : 89 * 30% --> 26.7
-| B.Indonesia: 90 * 20% --> 18
-| B.Inggris  : 89 * 20% --> 17.8
+| MTK        : 87 * 35% --> 30.45
+| IPA        : 89 * 25% --> 22.25
+| B.Indonesia: 77 * 20% --> 15.4
+| B.Inggris  : 88 * 20% --> 17.6
 |
 | --- TUGAS ---
-| MTK        : 88 * 40% --> 35.2
-| IPA        : 79 * 30% --> 23.7
-| B.Indonesia: 98 * 20% --> 19.6
-| B.Inggris  : 99 * 20% --> 19.8
+| MTK        : 99 * 35% --> 34.65
+| IPA        : 90 * 25% --> 22.5
+| B.Indonesia: 80 * 20% --> 16
+| B.Inggris  : 70 * 20% --> 14
 |
 | --- Bobot Nilai ---
-| UAS   : 96.2 * 40% --> 38.48
-| UTS   : 90.5 * 35% --> 31.675
-| Tugas : 98.3 * 25% --> 24.575
+| UAS   : 86.05 * 40% --> 34.42
+| UTS   : 85.7 * 35% --> 29.995
+| Tugas : 87.15 * 25% --> 21.7875
 |
 | --- Rata-rata ---
-| Nilai Rata-rata Akhir: 94.73
+| Nilai Rata-rata Akhir: 86.2025
 |================================

@@ -2,37 +2,37 @@
 |======== DATA MAHASISWA ========
 | --- identitas ---
 | Nama   : labubu
-| Umur   : 25
-| Jurusan: TATA boga
+| Umur   : 16
+| Jurusan: RPL
 | NISN   : 11112
 |
 | --- Tanggal Lahir ---
-| tanggal 16 /bulan 8 /tahun 2025
+| tanggal 2 /bulan 4 /tahun 2009
 |
 |============ Nilai ============
 | --- UAS ---
-| MTK        : 89 * 40% --> 35.6
-| IPA        : 98 * 30% --> 29.4
-| B.Indonesia: 78 * 20% --> 15.6
-| B.Inggris  : 98 * 20% --> 19.6
+| MTK        : 89 * 35% --> 31.15
+| IPA        : 87 * 25% --> 21.75
+| B.Indonesia: 79 * 20% --> 15.8
+| B.Inggris  : 97 * 20% --> 19.4
 |
 | --- UTS ---
-| MTK        : 78 * 40% --> 31.2
-| IPA        : 97 * 30% --> 29.1
-| B.Indonesia: 79 * 20% --> 15.8
-| B.Inggris  : 89 * 20% --> 17.8
+| MTK        : 87 * 35% --> 30.45
+| IPA        : 89 * 25% --> 22.25
+| B.Indonesia: 78 * 20% --> 15.6
+| B.Inggris  : 79 * 20% --> 15.8
 |
 | --- TUGAS ---
-| MTK        : 80 * 40% --> 32
-| IPA        : 70 * 30% --> 21
-| B.Indonesia: 90 * 20% --> 18
-| B.Inggris  : 89 * 20% --> 17.8
+| MTK        : 98 * 35% --> 34.3
+| IPA        : 97 * 25% --> 24.25
+| B.Indonesia: 78 * 20% --> 15.6
+| B.Inggris  : 79 * 20% --> 15.8
 |
 | --- Bobot Nilai ---
-| UAS   : 100.2 * 40% --> 40.08
-| UTS   : 93.9 * 35% --> 32.865
-| Tugas : 88.8 * 25% --> 22.2
+| UAS   : 88.1 * 40% --> 35.24
+| UTS   : 84.1 * 35% --> 29.435
+| Tugas : 89.95 * 25% --> 22.4875
 |
 | --- Rata-rata ---
-| Nilai Rata-rata Akhir: 95.145
+| Nilai Rata-rata Akhir: 87.1625
 |================================
